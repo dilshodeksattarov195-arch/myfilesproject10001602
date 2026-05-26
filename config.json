@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerstringify",
+        "uuid": 6954282,
+        "checksum": "y7m0rh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
